@@ -518,9 +518,8 @@ footer {
 
 /* Used on the contact form to stretch input full length of div */
 .fullWidthInput{
-    width: 95%;
-    margin-left: 23px;
-    background-color: #f4faff;
+    width: 90%;
+	margin: 0px;
 }
 
 form {
