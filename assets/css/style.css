@@ -366,20 +366,8 @@ nav{
 /* Header area contains the logo */
 
 header{
-/*    float: left;*/
-/*    padding: 0px 15px;*/
-/*
-    background-color:  rgb(236,151,193);
-    background-color:  rgba(236,151,193, 0.9);
-    color: #f4faff;
-    border-style: outset;
-    border-width: 0px 5px 5px 0px;
-    padding-top: 5px;
-    border-radius: 0px 0px 10px 10px;
-    border-color:  rgb(233, 169, 201);
-    border-color:  rgba(233, 169, 201, 0.5);
-*/
 	width: 100vw;
+	padding: 0px;
 }
 	
 	i{
