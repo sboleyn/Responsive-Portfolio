@@ -359,7 +359,7 @@ footer, .push {
 
 /* #Nav is the smaller area inside Nav Div with width 960px */
 nav{
-    max-width: 640px;
+    max-width: 100vw;
     margin: auto;  
 }
 
