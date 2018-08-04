@@ -315,7 +315,11 @@ html, body {
 	
 body{
 background: url(../images/hello_background3.jpg);
-background-size: 100% auto;
+/*background-size: 100% auto;*/
+}
+	
+.container{
+	background-image: none;
 }
 
 /*This wrapper is used to set the viewport heigh on the main content area (wrapper box) so that the footer can be pushed to the bottom  */
