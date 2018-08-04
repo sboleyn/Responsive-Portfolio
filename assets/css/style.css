@@ -155,7 +155,7 @@ li:not(:last-child){
 /* Describes the main content area */
 
 #mainContentHead{
-    padding: 30px 0px 3px 30px;
+/*    padding: 30px 0px 3px 30px;*/
     margin: 0px;
     color: #F4FAFF;
 }
@@ -390,9 +390,8 @@ header{
 
 #mainContent{
 	width: auto;
-    max-width: 620px;
+    max-width: 580px;
     margin-left: auto;
-    margin-right: 10px;
     margin-top: 50px;
     background-color: rgb(8,9,10);
     background-color: rgba(8,9,10, 0.4);
@@ -545,6 +544,8 @@ form {
     font-size: 18px;
     padding: 2px;
 	float: left;
+	width: auto;
+	max-width: 640px;
 }
 
 /* Style button for contact form */
@@ -558,6 +559,7 @@ form {
     border-radius: 10px;
     font-family: 'Asap', sans-serif;
     font-size: 15px;
+	float: left;
 }
 
 /* Hover state of button for contact form */
@@ -577,6 +579,7 @@ form {
 .myWorkImg{
     width: 293px;
     height: 195px;
+    margin-right: auto;
 }
 
 .clearfix::after{
