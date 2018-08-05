@@ -788,3 +788,61 @@ and (max-width : 768px) {
 	} 
 	}
 	
+@media (min-width: 769px)
+and (max-width: 980px){
+
+	/* #Nav is the smaller area inside Nav Div with width 960px */
+	nav{
+		width: 780px;
+		margin: auto;  
+	}
+
+	#mainContent{
+		width: 650px;
+		margin-left: 5em;
+		margin-right: 75%;
+		margin-top: 50px;
+	}
+
+
+	li{
+		display: inline;
+		font-size: 20px;
+	}
+
+
+	#profile_image{
+		border: 1px solid #F4FAFF;
+		border-radius: 50px;
+		float: left;
+		margin: 0px 20px 10px 10px;
+		width: 145px;
+	}
+
+	#mainTextDiv{
+		font-size: 20px;
+		color: #08090A;
+		padding: 10px;
+		font-family: 'PT Sans', sans-serif;
+		font-weight: 600;
+	}  
+
+
+	/* Describes the main content area */
+
+	#mainContentHead{
+		padding-left: 10px;
+	}
+
+
+	.myWorkImg{
+		width: 293px;
+		height: 195px;
+		float: left;
+	}
+
+	/* Used to position banners on portfolio images */
+
+
+
+}
